@@ -14,9 +14,10 @@ unspecified until later.
 Files
 -----
 
-+ tensorflow_nnetwork.ipynb: Completed tutorial
++ tensorflow_nnetwork.ipynb: Tutorial directions/complete
 + tensorflow_nnetwork_template.html: Base code to begin tutorial from (html)
 + tensorflow_nnetwork_template.ipynb: Base code to begin tutorial from (ipython notebook)
++ tensorflow_nnetwork_template.py: Base code to begin tutorial from (.py file)
 
 
 
