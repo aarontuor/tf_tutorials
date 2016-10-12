@@ -14,7 +14,7 @@ unspecified until later.
 Folders
 --------
 
-# neural_net
+**neural_net**
 
     + tensorflow_nnetwork.ipynb: Tutorial directions/complete
     + tensorflow_nnetwork.html: Tutorial directions/complete
@@ -24,4 +24,4 @@ Folders
     + nnet2.py: template for better implementation of neural network
     + tensorflow_nnetwork_template.ipynb: Base code to begin tutorial from (ipython notebook)
 
-# mnist_net: Original tensorflow tutorial completed
+**mnist_net**: Original tensorflow tutorial completed
